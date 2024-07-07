@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/Dimych_Nativ.iml" filepath="$PROJECT_DIR$/.idea/Dimych_Nativ.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/3-todolist.iml" filepath="$PROJECT_DIR$/.idea/3-todolist.iml" />
     </modules>
   </component>
 </project>
